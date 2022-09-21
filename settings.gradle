@@ -1,0 +1,2 @@
+rootProject.name='Mesajlaşma2'
+include ':app'
